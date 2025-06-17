@@ -15,5 +15,5 @@ Color Changer is a simple web app that lets you change the background color of t
 - JavaScript
 
 # 🌐 Live Demo
-
+https://guifariadev.github.io/color-changer/
 ---
